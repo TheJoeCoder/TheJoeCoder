@@ -3,3 +3,6 @@
 - 🌱 I’m currently learning about the world...
 - 💞️ I’m looking to collaborate on any projects to do with Java, NodeJS, or PHP.
 - 📫 How to reach me: contact@radialbog9.uk (business enquries), joe@radialbog9.uk (computing projects) or [other links](https://linktr.ee/Radialbog9)
+
+[Website](https://radialbog9.uk)
+[Discord](https://discord.radialbog9.uk)
