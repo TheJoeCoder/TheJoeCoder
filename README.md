@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/82b861fb-50d1-4a0d-aa13-67fc3da8aaec.svg)](https://wakatime.com/@82b861fb-50d1-4a0d-aa13-67fc3da8aaec)
-👋 Hi, I’m @TheJoeCoder!
+
+# 👋 Hi, I’m @TheJoeCoder!
 - 👀 I’m interested in Java, NodeJS, Web applications with PHP and MySQL, Minecraft, and Music.
 - 🌱 I’m currently learning about the world...
 - 💞️ I’m looking to collaborate on any projects to do with Java, NodeJS, or PHP.
