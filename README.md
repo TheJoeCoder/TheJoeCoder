@@ -17,7 +17,7 @@ Other        39 mins         ████████▓░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-[![TheJoeCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJoeCoder)](https://github.com/anuraghazra/github-readme-stats)
+[![TheJoeCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheJoeCoder&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheJoeCoder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
