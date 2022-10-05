@@ -13,6 +13,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheJoeCoder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
+
+```text
+Java         1 hr 2 mins     █████████████▒░░░░░░░░░░░   53.67 %
+Other        39 mins         ████████▓░░░░░░░░░░░░░░░░   34.33 %
+```
+
 <!--END_SECTION:waka-->
 
 [Website](https://radialbog9.uk) / [Discord Server](https://rb9.xyz/discord)
