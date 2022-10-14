@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m @TheJoeCoder!
 - 👀 I’m interested in Java, NodeJS, Web applications with PHP and MySQL, Minecraft, and Music.
-- 🌱 I’m currently learning about the world...
+- 🌱 I’m currently learning about the world... and trying to do Computer Science.
 - 💞️ I’m looking to collaborate on any projects to do with Java, NodeJS, or PHP.
 - 📫 How to reach me: contact@radialbog9.uk (business enquries), Radialbog9#0001 discord (anything else) or [other links](https://linktr.ee/Radialbog9)
 
