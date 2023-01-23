@@ -11,8 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Properties   1 hr 47 mins    ██████████████████░░░░░░░   72.42 %
-Other        27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
+Properties   1 hr 47 mins    █████████████████░░░░░░░░   67.67 %
+Batchfile    31 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+JavaScript   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
