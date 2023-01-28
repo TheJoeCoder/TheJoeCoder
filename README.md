@@ -11,8 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Batchfile    31 mins         ██████████████████▒░░░░░░   72.77 %
-JavaScript   11 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+Python      54 mins         ███████████████▓░░░░░░░░░   63.02 %
+Batchfile   31 mins         █████████▒░░░░░░░░░░░░░░░   36.98 %
 ```
 
 <!--END_SECTION:waka-->
