@@ -6,9 +6,9 @@
 - 💞️ I’m looking to collaborate on any projects to do with Java, NodeJS, or PHP.
 - 📫 How to reach me: contact@radialbog9.uk (business enquries), Radialbog9#0001 discord (anything else) or [other links](https://linktr.ee/Radialbog9)
 
-<figure><embed src="https://wakatime.com/share/@Radialbog9/171000ba-80cf-4b52-b9b7-ff8d44d2f6a4.svg"></embed></figure>
+![wakatime stats](https://wakatime.com/share/@Radialbog9/171000ba-80cf-4b52-b9b7-ff8d44d2f6a4.svg)]
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1puuoim4z9kqgght0d4uvhvsg&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=ffe047&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1puuoim4z9kqgght0d4uvhvsg&redirect=true)
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1puuoim4z9kqgght0d4uvhvsg&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=ffe047&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=1puuoim4z9kqgght0d4uvhvsg&redirect=true)-->
 
 <!--START_SECTION:waka-->
 
