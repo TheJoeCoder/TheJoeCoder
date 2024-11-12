@@ -4,7 +4,7 @@
 - 👀 I’m interested in Java, NodeJS, Web applications with PHP and MySQL, Minecraft, and Music.
 - 🌱 I’m currently learning about the world... and trying to do Computer Science.
 - 💞️ I’m looking to collaborate on any projects to do with Java, NodeJS, or PHP.
-- 📫 How to reach me: contact@radialbog9.uk (business enquries), Radialbog9#0001 discord (anything else) or [other links](https://linktr.ee/Radialbog9)
+- 📫 How to reach me: `radialbog9` on discord or [other links](https://linktr.ee/Radialbog9)
 
 [![wakatime stats](https://wakatime.com/share/@Radialbog9/171000ba-80cf-4b52-b9b7-ff8d44d2f6a4.svg)](https://wakatime.com/@Radialbog9)
 
