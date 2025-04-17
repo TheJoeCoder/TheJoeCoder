@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              28 mins         ███████████▒░░░░░░░░░░░░░   45.38 %
-Bash              15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.34 %
-Markdown          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Java Properties   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Properties        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
