@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 16 mins    ████████████▓░░░░░░░░░░░░   50.33 %
-Python     45 mins         ███████▒░░░░░░░░░░░░░░░░░   29.56 %
-Dart       19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-JSON       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
