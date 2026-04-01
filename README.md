@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           7 hrs 35 mins         █████████████████████░░░░   84.31 %
-Python             1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
-YAML               4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-.env file          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Protocol Buffer    3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown           6 hrs 50 mins         ███████████████████▒░░░░░   77.10 %
+Python             1 hr 48 mins          █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+Protocol Buffer    8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+.env file          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+protobuf           1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
