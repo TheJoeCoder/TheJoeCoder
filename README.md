@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 53 mins         █████████░░░░░░░░░░░░░░░░   35.48 %
-HTML               1 hr 41 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-Markdown           1 hr 15 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-reStructuredText   1 hr 13 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Docker             35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Python             2 hrs 38 mins         █████████▓░░░░░░░░░░░░░░░   38.78 %
+HTML               1 hr 29 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
+reStructuredText   1 hr 13 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+Markdown           1 hr 3 mins           ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+CSS                9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
