@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python             1 hr 22 mins          ███████████████████▓░░░░░   79.03 %
+HTML               12 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Text               5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Requirements.txt   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+GitIgnore file     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
