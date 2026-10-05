@@ -13,7 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   10 hrs 12 mins        █████████████████████████   100.00 %
+Markdown           10 hrs 13 mins        ███████████████████████▒░   93.17 %
+Python             20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+HTML               11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML               9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Requirements.txt   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
