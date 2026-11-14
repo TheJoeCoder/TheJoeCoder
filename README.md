@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                       3 hrs 41 mins         ██████████████▒░░░░░░░░░░   56.96 %
-Markdown                   2 hrs 10 mins         ████████▒░░░░░░░░░░░░░░░░   33.66 %
-YAML                       23 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Groovy                     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Mixin Json Configuration   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown                   2 hrs 53 mins         █████████████████████░░░░   84.45 %
+Java                       18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
+Groovy                     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Mixin Json Configuration   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+textmate                   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
