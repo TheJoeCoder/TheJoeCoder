@@ -13,10 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   2 hrs 53 mins         █████████████████████░░░░   84.45 %
+Markdown                   2 hrs 53 mins         █████████████████████░░░░   84.44 %
 Java                       18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Groovy                     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Mixin Json Configuration   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Groovy                     5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Mixin Json Configuration   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 textmate                   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
