@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 32 mins          ██████████████░░░░░░░░░░░   55.65 %
-Python       1 hr 9 mins           ██████████▒░░░░░░░░░░░░░░   41.49 %
-Go           4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Git          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
